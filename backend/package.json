@@ -22,17 +22,10 @@
   "dependencies": {
     "@nestjs/common": "^6.0.0",
     "@nestjs/core": "^6.0.0",
-<<<<<<< HEAD
     "@nestjs/mongoose": "^6.4.0",
     "@nestjs/platform-express": "^6.0.0",
     "@types/morgan": "^1.7.35",
     "mongoose": "^5.13.14",
-=======
-    "@nestjs/mongoose": "^6.0.0",
-    "@nestjs/platform-express": "^6.0.0",
-    "@types/morgan": "^1.7.35",
-    "mongoose": "^5.4.20",
->>>>>>> master
     "morgan": "^1.9.1",
     "nest-morgan": "^1.0.0",
     "reflect-metadata": "^0.1.12",
@@ -47,11 +40,7 @@
     "@types/node": "^10.12.18",
     "@types/supertest": "^2.0.7",
     "jest": "^23.6.0",
-<<<<<<< HEAD
     "nodemon": "^1.19.4",
-=======
-    "nodemon": "^1.18.9",
->>>>>>> master
     "prettier": "^1.15.3",
     "supertest": "^3.4.1",
     "ts-jest": "^23.10.5",
