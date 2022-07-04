@@ -1,3 +1,1 @@
-<<<<<<< HEAD
-# crud-app
-=======
+Angular / Nest.js CRUD Application
